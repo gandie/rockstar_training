@@ -1,42 +1,29 @@
 Listen to Captain Baloo
-The crew is enthusiastic
-Rock the sky
-Modulus takes Number and Divisor
-While Number is as high as Divisor
-Put Number minus Divisor into Number
+Kit Cloudkicker is enthusiastic
+Rock the djungle
+Louie takes Bananas and Pineapples
+While Bananas are as high as Pineapples
+Put Bananas without Pineapples into Bananas
 
-Give back Number
+Give back Bananas
 
-While the crew is as weak as Captain Baloo
-debug is "Start iteration, number is"
-shout debug
-shout the crew
+While Kit Cloudkicker is as weak as Captain Baloo
 Walt Disney was right
 Shere Khan is aggressive
-Bagheera is frightened
-Mowgli is productive
-Put the sky into Bagheera
+Bagheera was frightened
+Mowgli was nothing
+Put the djungle into Bagheera
 While Shere Khan is weaker than Bagheera
-Let the snake be the sky at Shere Khan
-debug is "Start inner loop, divisor is"
-shout debug
-shout the snake
-If Modulus taking the crew, the snake is Mowgli
+Let Kaa be the djungle at Shere Khan
+If Louie taking Kit Cloudkicker, Kaa is Mowgli
 Put lies into Walt Disney
-debug is "found divisor, no prime"
-shout debug
 
 Build Shere Khan up
 
 If Walt Disney is right
-Rock the sky with the crew
-debug is "Found prime!"
-shout debug
+Rock the djungle with Kit Cloudkicker
 
-Shout the crew
-Build the crew up
+Build Kit Cloudkicker up
 
-debug is "the end"
-shout debug
-unite the sky into output with " "
-shout output
+Unite the djungle into the heavens with " "
+Shout the heavens
